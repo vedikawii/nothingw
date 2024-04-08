@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: rgb(255, 182, 193);
+    background-color: rgb (255, 182, 193);
 }
 
-#noButton {
+#maybeButton {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
